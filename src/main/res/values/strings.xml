@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GpsTracker</string>
+    <string name="btnstart">Start Tracking</string>
+    <string name="btnstop">Stop Tracking</string>
+</resources>
